@@ -1,0 +1,222 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+venv[0-9]*/
+*.egg
+*.egg-info/
+dist/
+build/
+develop-eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.eggs-info/
+.eggs/
+.wheels/
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
+*.codecov
+*.log
+
+# MyPy type checker data
+.mypy_cache/
+.dmypy.json
+dmypy*
+.mypy/
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+.pyre/
+
+# Poison-Fixing-Ugly (PyUFU) type checker data
+.pyufu_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.notebook.jupyter_checkpoints
+.matplotlibrc
+.matplotlib.font_manager.cache
+*.jupyter_cache_info
+
+# SageMath parsed file
+*.sage.py
+
+# Environments
+.env
+.env.env
+.env.bak.env
+.env.version
+
+# Virtual environment
+venv/
+
+# Spyder project settings
+.spyproject
+.spyderproject
+
+# Rope project settings
+.ropeproject
+.ropeproject
+
+# mkdocs documentation
+site/
+
+# mypy static type checker
+.mypy_cache/
+
+# Pyre static type checker
+.pyre/
+
+# Pynt project files
+.pynt.log
+.pynt/
+
+# Snapcraft environment
+.snap/
+
+# Other
+.vscode/
+.project
+.settings
+idea/
+
+# Python IDE specific files
+*.pydevproject
+.project
+.workspace
+.venv
+*.metadata
+remote-sync.json
+sgtpy
+.sqlite3
+.idea/
+.idea
+
+# PEP 8 internationalization (PEP 8 i18n)
+pep8-i18n.sh
+pep8-i18n/
+
+# Coverage and test data
+.coverage
+
+# Virtualization metadata
+instance/
+docker-compose-debug.yaml
+.docker-compose-debug
+.docker-compose.override.yaml
+.docker-compose.override.env
+
+# Static type checkers
+.mypy_cache/
+.gitignore/
+.md/
+
+# Unit test / coverage reports
+.htmlcov/
+
+#psycopg2
+.coverage
+.coverage.*
+coverage.xml
+nosetests.xml
+participating.py
+scraper.py
+# Editor directories and files
+.vscode/
+.idea/
+$PYTHONUSERBASE/
+
+# macOS directories and files
+__pycache__/
+*.py[cod]
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python distribution folder
+dist/
+
+# Directory for packages
+rpm/
+pkg/
+node_modules/
+test-runner/
+doc/
+docs/docs/make/
+docs/docs/_build/
+docs/docs/documentation/docs/_composition/
+
+#PyCharm ones
+.idea/
+venv/
+myenv/
+venv.bak/
+
+#MypX
+.dmypy.json
+dmypy.json.*
+.dmypy_cache/
+.mypy_cache/
+
+#tox results
+.tox/
+.env/
+.venv/
+logs/
+cache/
+coverage.xml                                                       
+nose
+html_cov
+html/
